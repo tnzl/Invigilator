@@ -18,6 +18,7 @@ Product outputs:
 2. some cheating metrics
 
 Notes:
+1. http://images.nvidia.com/cn/gtc/downloads/pdf/ecs/6%20Deep%20Learning%20for%20Eye%20Tracking(7invensun)%20Thomas%20%5BFinal%20Big%5D10.0.pdf
 
 Research Papers and Articles:
 1. https://machinelearningmastery.com/introduction-to-deep-learning-for-face-recognition/
