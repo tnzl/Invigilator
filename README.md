@@ -1,6 +1,10 @@
 # Online-Exam-Cheating-Detection
 This project aims at detecting cheating during online exams with help of deep learning algorithms on video stream.
 
+Aim:
+"Predict probability of a person cheating and other related metrics"
+[Like this]( https://www.youtube.com/watch?v=-lmc2-podgQ)
+
 Approach:
 1. Create a backbone.
 2. Predict different tasks.
@@ -28,7 +32,9 @@ Research Papers and Articles:
 4. https://arxiv.org/pdf/1804.06655.pdf
 
 Youtube, Courses and other important links:
+Explore youtube for inspiration.
 1. https://www.youtube.com/watch?v=_wuyh37gO-4
+2. [VVV IMPORTANT introduction to gaze by opencv](https://www.youtube.com/watch?v=-lmc2-podgQ)
 
 Datasets:
 1. MS-Celeb-1M: Challenge of Recognizing One Million Celebrities in the Real World
