@@ -28,13 +28,18 @@ Research Papers and Articles:
 1. https://machinelearningmastery.com/introduction-to-deep-learning-for-face-recognition/
 2. https://arxiv.org/pdf/1804.06655.pdf Complete face recognition book. MANDATORY READ.
 2. https://towardsdatascience.com/an-intro-to-deep-learning-for-face-recognition-aa8dfbbc51fb
-3. Google Face detection tasks
+3. Google about 
+  a. Face detection tasks
+  b. driver status monitoring system deep learning
+  c. Multi task deep learning
 4. https://arxiv.org/pdf/1804.06655.pdf
+5. Lightweight Driver Monitoring System Based onMulti-Task Mobilenets
 
 Youtube, Courses and other important links:
 Explore youtube for inspiration.
 1. https://www.youtube.com/watch?v=_wuyh37gO-4
 2. [VVV IMPORTANT introduction to gaze by opencv](https://www.youtube.com/watch?v=-lmc2-podgQ)
+3. [Multitask learning ny Dr. Ng](https://www.youtube.com/watch?v=UdXfsAr4Gjw&feature=youtu.be)
 
 Datasets:
 1. MS-Celeb-1M: Challenge of Recognizing One Million Celebrities in the Real World
