@@ -43,6 +43,8 @@ Explore youtube for inspiration.
 1. https://www.youtube.com/watch?v=_wuyh37gO-4
 2. [VVV IMPORTANT introduction to gaze by opencv](https://www.youtube.com/watch?v=-lmc2-podgQ)
 3. [Multitask learning ny Dr. Ng](https://www.youtube.com/watch?v=UdXfsAr4Gjw&feature=youtu.be)
+4. [Similar project](https://www.youtube.com/watch?v=YEZMk1P0-yw)
+5. [Similar Project](https://www.youtube.com/watch?v=VWUgkcX_KoY)
 
 Datasets:
 1. MS-Celeb-1M: Challenge of Recognizing One Million Celebrities in the Real World
