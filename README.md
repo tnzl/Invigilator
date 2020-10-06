@@ -23,6 +23,8 @@ Product outputs:
 2. some cheating metrics
 
 Notes:
+-1: Facemesh tf js
+0: TF js implement.
 1. If more than one person appear then save their faces.
 2. Person id not on all frames but periodically
 
@@ -37,6 +39,7 @@ Research Papers and Articles:
 4. https://arxiv.org/pdf/1804.06655.pdf
 5. Lightweight Driver Monitoring System Based onMulti-Task Mobilenets
 6. http://images.nvidia.com/cn/gtc/downloads/pdf/ecs/6%20Deep%20Learning%20for%20Eye%20Tracking(7invensun)%20Thomas%20%5BFinal%20Big%5D10.0.pdf
+7. FaceNet 
 
 Youtube, Courses and other important links:
 Explore youtube for inspiration.
