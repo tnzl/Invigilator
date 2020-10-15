@@ -1,6 +1,20 @@
-# Online-Exam-Cheating-Detection
+# Invigilator
 This project aims at detecting cheating during online exams with help of deep learning algorithms on video stream.
 
+# Path ahead:
+Level 1:\
+  A. Create a basic left right working python package.\
+  B. Use third party trained models and libraries.\
+  C. Have basic demo, try scripts and deployment.\
+Level 2:\
+  A. Start adding more complex tasks to invigilator.\
+  B. Start removing third party libraries.\
+  C. Improve pipelines aiming FPS improvement.\
+Level 3: \
+  A. Independent of third party models aiming FLOPS, accuracy.\
+  B. Ready for large scale deployment.\
+
+----------
 Aim:
 "Predict probability of a person cheating and other related metrics"
 [Like this]( https://www.youtube.com/watch?v=-lmc2-podgQ)
