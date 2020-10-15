@@ -23,6 +23,7 @@ Product outputs:
 2. some cheating metrics
 
 Notes:
+-2: Impo- use this probably https://www.youtube.com/watch?v=IZnbd29gtIQ
 -1: Facemesh tf js
 0: TF js implement.
 1. If more than one person appear then save their faces.
