@@ -54,6 +54,7 @@ Product outputs:
 2. some cheating metrics
 
 Notes:
+-4: Roll, Pitch, yaw : https://github.com/fisakhan/Face_Pose/blob/master/pose_detection_retinaface.py
 -3: MTCNN vs dlib https://www.youtube.com/watch?v=Yt4TpRmwVPI
 -2: Impo- use this probably https://www.youtube.com/watch?v=IZnbd29gtIQ
 -1: Facemesh tf js
