@@ -10,7 +10,7 @@ Deploy on cloud\
           v\
 Start writing medium article \
           v\
-Make a demo video \
+Make a demo video\
 ## Stage : 2
 Add more complex tasks like face id\
 v\
@@ -54,6 +54,9 @@ Product outputs:
 2. some cheating metrics
 
 Notes:
+-7: Search paper with code for all related datasets eg. https://paperswithcode.com/sota/head-pose-estimation-on-biwi
+-6: Backbone oriented face angle predictions: https://arxiv.org/pdf/1901.06778v2.pdf
+-5: Complete guide on face angles, pose https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/
 -4: Roll, Pitch, yaw : https://github.com/fisakhan/Face_Pose/blob/master/pose_detection_retinaface.py
 -3: MTCNN vs dlib https://www.youtube.com/watch?v=Yt4TpRmwVPI
 -2: Impo- use this probably https://www.youtube.com/watch?v=IZnbd29gtIQ
