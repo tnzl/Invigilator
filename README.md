@@ -1,6 +1,23 @@
 # Invigilator
 This project aims at detecting cheating during online exams with help of deep learning algorithms on video stream.
 
+## Stage : 1
+Basic left/right model\
+          v\
+Create a repo \
+          v\
+Deploy on cloud\
+          v\
+Start writing medium article \
+          v\
+Make a demo video \
+## Stage : 2
+Add more complex tasks like face id\
+v\
+Start with your own efficient model\
+          
+
+
 # Path ahead:
 Level 1:\
   A. Create a basic left right working python package.\
@@ -37,6 +54,7 @@ Product outputs:
 2. some cheating metrics
 
 Notes:
+-3: MTCNN vs dlib https://www.youtube.com/watch?v=Yt4TpRmwVPI
 -2: Impo- use this probably https://www.youtube.com/watch?v=IZnbd29gtIQ
 -1: Facemesh tf js
 0: TF js implement.
