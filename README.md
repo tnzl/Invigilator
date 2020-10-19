@@ -14,9 +14,8 @@ Make a demo video\
 ## Stage : 2
 Add more complex tasks like face id\
 v\
-Start with your own efficient model\
+Start with your own efficient model
           
-
 
 # Path ahead:
 Level 1:\
@@ -53,17 +52,17 @@ Product outputs:
 1. anti spoofing 
 2. some cheating metrics
 
-Notes:
--7: Search paper with code for all related datasets eg. https://paperswithcode.com/sota/head-pose-estimation-on-biwi
--6: Backbone oriented face angle predictions: https://arxiv.org/pdf/1901.06778v2.pdf
--5: Complete guide on face angles, pose https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/
--4: Roll, Pitch, yaw : https://github.com/fisakhan/Face_Pose/blob/master/pose_detection_retinaface.py
--3: MTCNN vs dlib https://www.youtube.com/watch?v=Yt4TpRmwVPI
--2: Impo- use this probably https://www.youtube.com/watch?v=IZnbd29gtIQ
--1: Facemesh tf js
-0: TF js implement.
-1. If more than one person appear then save their faces.
-2. Person id not on all frames but periodically
+Notes:\
+-7: Search paper with code for all related datasets eg. https://paperswithcode.com/sota/head-pose-estimation-on-biwi \
+-6: Backbone oriented face angle predictions: https://arxiv.org/pdf/1901.06778v2.pdf \ 
+-5: Complete guide on face angles, pose https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/ \
+-4: Roll, Pitch, yaw : https://github.com/fisakhan/Face_Pose/blob/master/pose_detection_retinaface.py \
+-3: MTCNN vs dlib https://www.youtube.com/watch?v=Yt4TpRmwVPI \
+-2: Impo- use this probably https://www.youtube.com/watch?v=IZnbd29gtIQ\
+-1: Facemesh tf js \
+0: TF js implement.\
+1. If more than one person appear then save their faces.\
+2. Person id not on all frames but periodically\
 
 Research Papers and Articles:
 1. https://machinelearningmastery.com/introduction-to-deep-learning-for-face-recognition/
