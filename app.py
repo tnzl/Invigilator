@@ -46,7 +46,6 @@ class VideoCamera(object):
         ret, jpeg = cv2.imencode('.jpg', img_fd)
         return jpeg.tobytes()
 
-
 app = Flask(__name__)
 
 @app.route('/')
