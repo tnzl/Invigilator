@@ -2,7 +2,7 @@
 Invigilator is an artificially intelligent proctor which monitors student activity in real time and generates warnings for using unfair means during exams.
 
 ## Demo
-Azure+Flask demo.\
+Heroku + Flask
 See example.py
 Under construction
 
