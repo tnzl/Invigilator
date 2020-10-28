@@ -8,7 +8,7 @@ cap = cv2.VideoCapture(0)
 
 f = 0
 t0 = time.time()
-fps = 'N/A'
+fps = 0
 while(True):
     # Capture frame-by-frame
     ret, frame = cap.read()
@@ -27,9 +27,14 @@ while(True):
         t0 = time.time()
 
     img_fd = preprocess_img(frame)
+
+    if len(warnings)>0:
+        color = (0,0,255)
+    else:
+        color = (0,255,0)
     
     for i in range(len(dets)):
-        cv2.rectangle(img_fd, (dets[i]['box'][0], dets[0]['box'][1]), (dets[0]['box'][0]+dets[0]['box'][2], dets[0]['box'][1]+dets[0]['box'][3]), (255, 0, 0) , 1)
+        cv2.rectangle(img_fd, (dets[i]['box'][0], dets[0]['box'][1]), (dets[0]['box'][0]+dets[0]['box'][2], dets[0]['box'][1]+dets[0]['box'][3]), color , 1)
         cv2.circle(img_fd ,(dets[i]['keypoints']['left_eye'][0], dets[0]['keypoints']['left_eye'][1]), 3, (0,0,255), thickness=-1)
         cv2.circle(img_fd ,(dets[i]['keypoints']['right_eye'][0], dets[0]['keypoints']['right_eye'][1]), 3, (0,0,255), thickness=-1)
         cv2.circle(img_fd ,(dets[i]['keypoints']['nose'][0], dets[0]['keypoints']['nose'][1]), 3, (0,0,255), thickness=-1)
@@ -40,16 +45,16 @@ while(True):
                             , (dets[0]['box'][0]+dets[0]['box'][2]+5, dets[0]['box'][1]+8)
                             , cv2.FONT_HERSHEY_SIMPLEX
                             , 0.5
-                            , (255,0,0)
+                            , color
                             , 1
                             , cv2.LINE_AA)
     
     img_fd = cv2.putText(img_fd
-                         , 'FPS : '+str(fps)
-                         , (50, 50)
+                         , 'FPS : '+"{:.2f}".format(fps)
+                         , (25, 25)
                          , cv2.FONT_HERSHEY_SIMPLEX
                          , 0.5
-                         , (255,0,0)
+                         , (0,255,0)
                          , 1
                          , cv2.LINE_AA)
 
