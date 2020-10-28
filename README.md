@@ -25,6 +25,10 @@ warnings, dets = proctor.give_image(frame)
 ## Contributng
 Wiki page
 
+## FAQ
+Q1. What are the metric to determine unfair means during exams?\
+A1. There are no metric to label action as cheating in offline and online scenarios. An invigilator always issues warnings which if repeated can be marked as cheating. Here, we only generate warnings which makes online exam invigilation much easier for teachers. 
+
 ## License
 MIT License
 Under construction.
@@ -32,5 +36,4 @@ Under construction.
 ## References
 Under construction
 
-END
-
+**END**
