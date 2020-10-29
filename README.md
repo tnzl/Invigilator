@@ -34,10 +34,9 @@ Q1. What are the metric to determine unfair means during exams?\
 A1. There are no metric to label action as cheating in offline and online scenarios. An invigilator always issues warnings which if repeated can be marked as cheating. Here, we only generate warnings which makes online exam invigilation much easier for teachers. 
 
 ## License
-MIT License
-Under construction.
+[MIT License](https://github.com/tnzl/Invigilator/blob/master/LICENSE)
 
 ## References
-Under construction
+[References](https://github.com/tnzl/Invigilator/wiki/Resources-for-learning)
 
 **END**
