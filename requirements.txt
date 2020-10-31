@@ -12,5 +12,4 @@ mtcnn == 0.1.0
 # Invigilator/invigilator/utils.py: 1
 opencv_python == 4.2.0.34
 
-# Explicitly added
 gunicorn == 20.0.4 
