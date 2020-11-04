@@ -13,3 +13,5 @@ docs/_build/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# virtual env
+/invigilator_env/*
