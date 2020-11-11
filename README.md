@@ -3,7 +3,9 @@ Invigilator is an artificially intelligent proctor which monitors student activi
 
 ## Demo
 A demo app has been deployed on Heroku using Flask and Gunicorn.\
-Access it here: [try-invigilator.herokuapp.com](https://try-invigilator.herokuapp.com/)\
+Access it here: [try-invigilator.herokuapp.com](https://try-invigilator.herokuapp.com)(Ahh! Again fixing web host issues -_-) \
+OR \
+Just run `app.py` \
 **Privacy Note:** The app doesn't save any image, video or metadata for any further use. All instances are destroyed as soon as you close the web page. Therefore, please feel free to use the app.
 
 ## Installation
@@ -23,7 +25,7 @@ warnings, dets = proctor.give_image(frame)
 ```
 Do checkout [example.py](https://github.com/tnzl/Invigilator/blob/master/example.py).
 
-## Contributng
+## Contributing
 Read Wiki pages to understand the ideas and inspiration behind Invigilator and path we wish to follow for the development of the project.
 * [Ideas](https://github.com/tnzl/Invigilator/wiki/Ideas)
 * [Path for developers](https://github.com/tnzl/Invigilator/wiki/Path-for-developers)
